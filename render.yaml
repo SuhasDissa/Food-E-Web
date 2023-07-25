@@ -5,3 +5,5 @@ services:
     buildCommand: npm install && npm run build
     startCommand: node build/index.js
     autoDeploy: true
+key: ADAPTER
+value: node
