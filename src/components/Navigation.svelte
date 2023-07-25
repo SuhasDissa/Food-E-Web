@@ -32,7 +32,7 @@
                         </button>
                     </div>
                     <!-- Logo -->
-                    <a href="/dashboard" class="flex items-center pl-2">
+                    <a href="/additives" class="flex items-center pl-2">
                         <AppLogo class="block h-9 w-auto" />
                         <p
                             class="text-2xl sm:text-3xl text-black dark:text-white"

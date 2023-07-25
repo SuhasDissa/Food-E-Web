@@ -5,12 +5,11 @@
 
 <Header>
     <div class="flex flex-row items-center justify-between">
-        <a
-            href="#additiveIndex"
+        <h2
             class="font-semibold text-xl text-gray-800 dark:text-gray-200 leading-tight"
         >
             Statistics
-        </a>
+        </h2>
     </div>
 </Header>
 <div class="flex flex-col p-6">
