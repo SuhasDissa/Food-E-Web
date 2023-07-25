@@ -94,17 +94,6 @@
             <ul class="space-y-2 font-medium">
                 <li>
                     <a
-                        href="/dashboard"
-                        class="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700"
-                    >
-                        <span class="material-symbols-rounded">
-                            dashboard
-                        </span>
-                        <span class="ml-3">Dashboard</span>
-                    </a>
-                </li>
-                <li>
-                    <a
                         href="/additives"
                         class="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700"
                     >
@@ -113,6 +102,17 @@
                         </span><span class="flex-1 ml-3 whitespace-nowrap"
                             >All Additives</span
                         >
+                    </a>
+                </li>
+                <li>
+                    <a
+                        href="/statistics"
+                        class="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700"
+                    >
+                        <span class="material-symbols-rounded">
+                            analytics
+                        </span>
+                        <span class="ml-3">Statistics</span>
                     </a>
                 </li>
             </ul>
